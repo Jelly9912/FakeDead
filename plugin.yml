@@ -1,0 +1,13 @@
+name: FakeDead
+main: Jelly9912\FakeDead\Main
+version: 0.1
+api: 1.13.0
+author: Jelly9912
+commands:
+ fd:
+  description: "Fakedead command"
+  permission: fakedead.command
+permissions:
+  fakedead.command:
+    description: Permission for command
+    default: OP
