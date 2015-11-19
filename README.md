@@ -3,4 +3,4 @@ Fake dead plugin for PocketMine-MP
 
 # COMMANDS
 
-/fd [player]
+# /fd [player]
